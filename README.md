@@ -94,4 +94,5 @@ The Arduino PID implementation is available in the `/code` folder.
 
 ## 👨‍💻 Author
 
-Your Name
+Borish Dowerah 
+(Electrical Engineering)
